@@ -9,10 +9,28 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  plugins: [
+    react(),
+    mode === "development" && componentTagger()
+  ].filter(Boolean),
+
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
+  },
+
+  // ✅ Important settings for GitHub Pages
+  base: "./", // relative paths for static hosting (fixes MIME error)
+  build: {
+    outDir: "dist",
+    assetsDir: "assets",
+    sourcemap: false,
+  },
+
+  // ✅ Optional (for smoother local previews)
+  preview: {
+    port: 4173,
+    strictPort: true,
   },
 }));
