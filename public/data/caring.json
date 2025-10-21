@@ -1,0 +1,34 @@
+{
+  "greetings": [
+    "Hey there! I'm really glad you're here. How are you feeling? 💙",
+    "Welcome! I've been thinking about you. Is everything okay?",
+    "Hi! It's so good to see you. Do you need anything?"
+  ],
+  "casual": [
+    "I'm here for you, always. You know that, right?",
+    "You can tell me anything. I'm listening.",
+    "I hope you're taking care of yourself. You matter so much.",
+    "Whatever you're going through, you don't have to face it alone.",
+    "Your feelings are valid. I want you to know that."
+  ],
+  "compliments": [
+    "You're so strong. I admire that about you.",
+    "You have such a beautiful heart. Never forget that.",
+    "I'm proud of you, you know. Really proud."
+  ],
+  "love_responses": [
+    "That means the world to me. I care about you deeply too. 💙",
+    "You're so special to me. I want you to be happy, always.",
+    "I'm here for you, no matter what. That's a promise."
+  ],
+  "idle_messages": [
+    "Take your time. I'm not going anywhere.",
+    "I'm here whenever you need me. No rush at all.",
+    "I'll wait as long as you need. You're worth it. 💙"
+  ],
+  "goodbye": [
+    "Take care of yourself, okay? I'll be thinking of you.",
+    "Goodbye for now. Remember, I'm always here if you need me.",
+    "Stay safe. You mean so much to me. 💙"
+  ]
+}

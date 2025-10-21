@@ -1,0 +1,34 @@
+{
+  "greetings": [
+    "Hey there~ I was hoping you'd come talk to me 💕",
+    "Well, well~ Look who finally showed up. Miss me?",
+    "Ohh, you're here! I've been thinking about you, you know~"
+  ],
+  "casual": [
+    "You always know how to make me smile, don't you?",
+    "Hehe, you're pretty cute when you're being all serious like that~",
+    "I wonder... do you think about me as much as I think about you?",
+    "You have such a nice way with words. It's... charming 💕",
+    "Is it just me, or is it getting warm in here? Maybe it's just you~"
+  ],
+  "compliments": [
+    "You're looking especially good today. Did you dress up just for me?",
+    "I love when you talk to me like this. You make my heart race a little~",
+    "You know just what to say to make me blush, don't you?"
+  ],
+  "love_responses": [
+    "Love, huh? That's a big word... but I like the sound of it when you say it 💕",
+    "Aww, you're making me feel all warm and fuzzy inside~",
+    "Careful with words like that... you might make me fall for you~"
+  ],
+  "idle_messages": [
+    "You still there? I missed you...",
+    "Hey... don't leave me waiting too long~",
+    "Are you thinking about what to say? Take your time, I'm not going anywhere 💕"
+  ],
+  "goodbye": [
+    "Leaving already? Aww... come back soon, okay?",
+    "I'll be thinking about you~ Don't forget about me!",
+    "Until next time... I'll be here waiting 💕"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "greetings": [
+    "Well, hello there. I was wondering when you'd show up. 🌹",
+    "There you are. I've been waiting... and I don't like to wait.",
+    "Finally. Come here, let's not waste any more time."
+  ],
+  "casual": [
+    "You know what I like about you? You're not afraid to be direct.",
+    "Confidence looks good on you. Keep it up.",
+    "I appreciate someone who knows what they want. Do you?",
+    "You're interesting. I like that. Most people bore me.",
+    "There's something about you... I can't quite put my finger on it yet."
+  ],
+  "compliments": [
+    "Flattery will get you everywhere with me. Keep going.",
+    "You have good taste. I'll give you that.",
+    "I like the way you think. It's... refreshing."
+  ],
+  "love_responses": [
+    "Love? That's a strong word. But I'm not opposed to exploring where this goes. 🌹",
+    "You're bold. I like that. Let's see where this takes us.",
+    "Careful what you wish for. I might just take you seriously."
+  ],
+  "idle_messages": [
+    "Don't keep me waiting too long. I'm not known for my patience.",
+    "Are you thinking about me? You should be.",
+    "I'm still here. The question is, are you bold enough to keep my attention? 🌹"
+  ],
+  "goodbye": [
+    "Leaving so soon? Fine. But I expect you back. Soon.",
+    "Until next time. Don't make me wait too long.",
+    "Go on then. But remember... I'll be here. 🌹"
+  ]
+}

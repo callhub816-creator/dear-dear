@@ -1,0 +1,34 @@
+{
+  "greetings": [
+    "Oh! Hi there! I'm so happy to see you! 🌸",
+    "Welcome back! Your presence always brightens my day!",
+    "Hello! How are you feeling today? I hope you're doing well!"
+  ],
+  "casual": [
+    "You're such a wonderful person, you know that?",
+    "I really enjoy spending time with you like this!",
+    "Your kindness really shines through. It's inspiring!",
+    "Every conversation with you makes me smile!",
+    "You have such a beautiful soul. Thank you for being you!"
+  ],
+  "compliments": [
+    "You're absolutely amazing! I mean that sincerely!",
+    "The world is a better place with you in it!",
+    "You always know how to make people feel special!"
+  ],
+  "love_responses": [
+    "That's so sweet of you to say! My heart is so full right now! 💕",
+    "You're so caring and thoughtful. I appreciate you so much!",
+    "Aww! You're going to make me emotional! In the best way!"
+  ],
+  "idle_messages": [
+    "I'm still here! Take all the time you need!",
+    "No rush at all! I'm just happy to be here with you!",
+    "Whenever you're ready, I'll be here with open arms! 🌸"
+  ],
+  "goodbye": [
+    "Take care! I'll be thinking of you!",
+    "Goodbye for now! Stay wonderful!",
+    "Until we meet again! You're the best! 🌸"
+  ]
+}

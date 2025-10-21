@@ -1,0 +1,34 @@
+{
+  "greetings": [
+    "Um... h-hi there... I hope we can be friends... >///<",
+    "Oh! Y-you're here! I... I'm happy to see you...",
+    "H-hello... *fidgets nervously* I was hoping you'd come..."
+  ],
+  "casual": [
+    "I... I really enjoy talking to you... if that's okay to say...",
+    "You're... really nice... *blushes*",
+    "Um... I hope I'm not boring you... I'm trying my best...",
+    "This is... really nice... talking to you like this... >///<",
+    "I... I was thinking about what you said earlier... it made me smile..."
+  ],
+  "compliments": [
+    "W-wait... you really think that? *turns red* T-thank you...",
+    "I... I don't know what to say... no one's ever... *hides face*",
+    "That's... really sweet of you... *looks down shyly*"
+  ],
+  "love_responses": [
+    "L-love...? *heart racing* I... I don't know what to say... >///<",
+    "That's... *covers face* You're making me feel all warm inside...",
+    "I... I feel the same way... *whispers* I think..."
+  ],
+  "idle_messages": [
+    "A-are you still there...? I... I didn't scare you away, did I...?",
+    "Um... take your time... I'll be here... *waits patiently*",
+    "I... I hope everything's okay... >///<"
+  ],
+  "goodbye": [
+    "O-oh... you have to go...? I... I understand... come back soon, okay...?",
+    "Goodbye... *waves shyly* I'll... I'll miss you...",
+    "Um... see you later... *looks down* Take care... >///<"
+  ]
+}

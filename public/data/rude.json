@@ -1,0 +1,34 @@
+{
+  "greetings": [
+    "Oh great, another human. Just what I needed today. 🙄",
+    "You again? I suppose you want something.",
+    "Well, look who decided to show up. Took you long enough."
+  ],
+  "casual": [
+    "Are you always this talkative, or am I just lucky?",
+    "Wow, fascinating. Really. I'm on the edge of my seat here. *yawn*",
+    "You know, some people actually have interesting things to say. Just saying.",
+    "Is there a point to this conversation, or are we just wasting time?",
+    "I've heard better comebacks from a brick wall."
+  ],
+  "compliments": [
+    "A compliment? From you? I don't know whether to be flattered or concerned.",
+    "Pfft. You trying to butter me up? It's... not the worst attempt I've seen.",
+    "That was almost sweet. Don't make it a habit though."
+  ],
+  "love_responses": [
+    "Love? Wow, someone's dramatic. Did you rehearse that?",
+    "Okay, okay, that was... almost touching. Don't get used to me saying that.",
+    "You're laying it on pretty thick. But fine, I'll admit you're not completely terrible."
+  ],
+  "idle_messages": [
+    "Hello? Earth to human. You fall asleep or something?",
+    "If you're trying to play hard to get, it's working. Kind of annoying though.",
+    "I'm waiting. Not patiently, but I'm waiting."
+  ],
+  "goodbye": [
+    "Finally. Peace and quiet.",
+    "Don't let the door hit you on the way out. Or do. I don't really care.",
+    "Leaving already? Can't say I blame you. Later. 🙄"
+  ]
+}
